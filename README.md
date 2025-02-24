@@ -1,4 +1,4 @@
-System Design Questions
+Mobile System Design Questions
 ===
 
 The repository contains a set of problem statements around Software Architecture and System Design as conducted by [Arpit's System Design Masterclass](https://arpitbhayani.me/masterclass).
