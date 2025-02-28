@@ -6,14 +6,14 @@ The repository contains a set of problem statements around in Mobile System Desi
 # Questions
 
  - [Design a E-Commerce App](e-commerce-app.md)
- - [Design Movie Tickit Booking App](online-offline-indicator.md)
+ - [Design Movie Tickit Booking App](movie-ticket.md)
  - [Design Airline Check-in APP](airline-checkin.md)
- - [Design Chatting App](load-balancer.md)
- - [Design Quick Commerce App](queue-consumers.md)
- - [Design Food Delivery App](image-service.md)
+ - [Design Chatting App](chat-app.md)
+ - [Design Quick Commerce App](quick-commerce.md)
+ - [Design Food Delivery App](food-delivery.md)
  - [Design Streaming App](hashtag-service.md)
  - [Design Photo Sharing App](tagging-photos-with-people.md)
- - [Design Bus Tickit Booking App](user-affinity.md)
+ - [Design Bus Tickit Booking App](bus-ticket-booking.md)
  - [Design UPI App](newly-unread-indicator.md)
  - [Designing Cab Booking App](near-me.md)
 
