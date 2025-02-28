@@ -2,7 +2,7 @@ Design E-Commerce App / WebSite
 ===
 
 <!--ts-->
-* [Design E-Commerce App System](#design-airline-check-in-system)
+* [Design E-Commerce App System](#design-e-commerce-app-system)
 * [Problem Statement](#problem-statement)
 * [Requirements](#requirements)
    * [Core Requirements](#core-requirements)
