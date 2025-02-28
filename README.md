@@ -6,7 +6,7 @@ The repository contains a set of problem statements around Software Architecture
 
 # Questions
 
- - [Design a E-Commerce App](blogging-platform.md)
+ - [Design a E-Commerce App](e-commerce-app.md)
  - [Design Movie Tickit Booking App](online-offline-indicator.md)
  - [Design Airline Check-in APP](airline-checkin.md)
  - [Design Chatting App](load-balancer.md)
